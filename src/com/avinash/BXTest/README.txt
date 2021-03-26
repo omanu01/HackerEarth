@@ -1,0 +1,8 @@
+output the below numeric triangle.
+    1
+   212
+  32123
+ 4321234
+543212345
+
+String name = "avinash kumar"
